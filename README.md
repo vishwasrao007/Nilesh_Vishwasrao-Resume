@@ -2,7 +2,7 @@
 Efficiently created a professional resume or portfolio within one hour by leveraging AI tools for content generation, formatting, and design optimisation.
 
 
-##About Me
+## About Me
 
 Front-End Developer with a strong focus on leveraging AI technologies to enhance productivity and streamline development workflows. Experienced in using 8 to 10 advanced AI tools to accelerate tasks, reduce development time, and improve code quality.
 
