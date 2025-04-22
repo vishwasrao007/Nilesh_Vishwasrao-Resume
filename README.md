@@ -10,3 +10,36 @@ Bringing over 12 + years of expertise in building responsive, user-centric web a
 
 Proven ability to lead projects from concept to deployment, collaborating closely with cross-functional teams across UX, UI, and engineering. Skilled in translating design mockups into W3C-compliant HTML, building reusable components, optimizing for performance and scalability, and conducting thorough code reviews.
 
+
+### Technologies
+- JS Animations
+- GSAP
+- CSS Animations
+- SEO
+- Responsive Design
+- Web Optimization
+- AI Tools
+- CSS Frameworks
+- CSS Pre-processors
+- Frameworks
+- Version Control
+
+
+### Tools
+- Cursor AI
+- Lovable AI
+- V0 AI
+- Trae AI
+- Copilot AI
+- chatgpt
+- Gemini
+- Shopify
+- VS Code
+- Sublime Text
+- Figma
+- Adobe XD
+- Photoshop
+- Illustrator
+- Git/SVN
+- Zeplin
+
